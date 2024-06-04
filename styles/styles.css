@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+main{
+    border: solid;
+    border-radius: 20px;
+    width: 350px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+img{
+    padding-top: 50px;
+}
+
+.text{
+    padding: 10px;
+}
+
+button{
+    width: 60px;
+}
